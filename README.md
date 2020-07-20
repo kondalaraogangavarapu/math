@@ -1,2 +1,2 @@
-# sub
-Go module for Subtraction
+# Math Module
+Go module for Caluculations
